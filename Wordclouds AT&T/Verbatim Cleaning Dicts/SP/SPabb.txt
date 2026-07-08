@@ -1,0 +1,527 @@
+A.	Alteza
+a.	arroba
+A.C.	año de Cristo
+a.C.	antes de Cristo
+A.D.	antes de Cristo
+a.deC.	antes de Cristo
+a.deJ.C.	antes de Jesucristo
+A.I.	Alteza Imperial
+a.J.C.	antes de Jesucristo
+a.m.	antes del mediodía
+A.M.D.G.	A la Mayor Gloria de Dios
+A.R.	Alteza Real
+A.S.	Alteza Serenísima
+A.T.	Antiguo Testamento
+A/A	a la atención
+a/a	a la atención
+a/c	a cuenta
+a/f	a favor
+AA.	Altezas
+AA.EE.	Asuntos Exteriores
+AA.RR.	Altezas Reales
+AA.VV.	autores varios
+aa.vv.	autores varios
+ab.	abad
+Abg.	abogado
+Abg.da	abogada
+Abg.do	abogado
+abr.	abreviatura
+abrev.	abreviatura
+abs.	absoluto
+aC	antes de Cristo
+acept.	aceptación
+id.	lo mismo / el mismo
+aD.g.	a Dios gracias
+adC.	antes de Cristo
+adm.	administrador / administradora
+admón.	administración
+admr.	administrador
+adv.	adverbio
+af.	afectísimo / afectísima
+afma.	afectísima
+afmo.	afectísimo
+Alfz.	alférez
+Almte.	almirante
+anál.	análisis 
+ant.	antiguo 
+ap.	aparte
+apdo.	apartado
+aprox.	aproximadamente 
+arch.	archipiélago 
+Arq.	arquitecto / arquitecta
+art.	artículo
+art.graf.	artes gráficas 
+art.o	artículo
+Arz.	arzobispo
+Arzbpo.	arzobispo
+it.	también
+atl.	atlético
+atl.o	atlético
+Atlco.	atlético
+atta.	atenta
+atte.	atentamente
+atto.	atento
+aux.	auxiliar 
+Av.	avenida
+av.	avenida
+Avd.	avenida
+avd.	avenida
+Avda.	avenida
+avda.	avenida
+Ayto.	ayuntamiento
+B.	beato / beata
+b.	bajo 
+b.l.m.	besa la mano
+B.o	barrio
+Barna.	Barcelona
+Bco.	banco
+bda.	barriada 
+Bibl.	biblioteca
+bibl.	biblioteca
+blv.	bulevar
+Bmo.	beatísimo
+Bo.	barrio
+Brig.	brigada
+Bs.	bolívar
+Bs.As.	Buenos Aires
+Bs.F.	bolívar fuerte
+Bta.	beata
+Bta.	Bogotá
+Bto.	beato
+bv.	bulevar
+c.	calle / capítulo / centavo
+C.a	compañía
+C.A.	compañía anónima / comunidad autónoma
+C.ía	compañía
+C.C.	cédula de ciudadanía / casilla de correo
+c.c.	centímetros cúbicos / cédula de ciudadanía
+C.E.	cédula de extranjería
+c.e.	correo electrónico
+C.F.	club de fútbol / capital federal
+c.f.s.	coste, flete y seguro
+C.I.	cédula de identidad
+C.P.	código postal
+C.porA.	compañía por acciones
+c.s.	cantidad suficiente / cantidades suficientes
+c/	calle / cargo / cuenta
+c/c	cuenta corriente
+c/u	cada uno / cada una
+cent.	céntimo
+cents.	céntimos
+cod.	código
+conf.	cónfer
+confr.	cónfer
+Cia.	compañía
+caj.	caja / cajón
+Cap.	capital / capitán
+cap.	capítulo
+Cap.Fed.	capital federal
+cap.o	capítulo
+cc	centímetros cúbicos
+CC.AA.	comunidades autónomas / cajas de ahorro
+CC.OO.	Comisiones Obreras
+CCOO.	Comisiones Obreras
+Cdad.	ciudad
+cent.	centavo / centésimo
+cents.	centavos
+cf.	confer
+cfr.	confer
+cgo.	cargo
+ch/	cheque
+cje.	corretaje
+cl.	calle
+Cmdt.	comandante
+Cmte.	comandante
+Cnel.	coronel
+Col.	colegio / coronel
+col.	colección / colonia / columna
+com.	comisión
+Comod.	comodoro
+Comp.	compañía
+Comte.	comandante
+Contralmte.	contralmirante
+coord.	coordinador / coordinadora
+cp.	compárese
+crec.	creciente
+cta.	cuenta
+cta.cte.	cuenta corriente
+Cte.	comandante
+cte.	corriente
+ctra.	carretera
+cts.	centavos / centésimos / céntimos
+ctv.	centavo
+ctvo.	centavo
+D.	don
+D.a	doña
+d.C.	después de Cristo
+d.deC.	después de Cristo
+d.deJ.C.	después de Jesucristo
+D.E.P.	descanse en paz
+D.F.	Distrito Federal
+d.J.C.	después de Jesucristo
+D.L.	depósito legal
+D.m.	Dios mediante
+D.P.	distrito postal
+d/f	días fecha
+d/v	días vista
+Dña.	doña
+dcha.	derecha
+dcho.	derecho
+del.	delegación
+depto.	departamento
+desct.o	descuento
+desct.	descuento
+desus.	desusado / desusada / desusados / desusadas
+diag.	diagonal
+dicc.	diccionario
+Dir.	director / dirección
+doc.	documento
+Dpt.o	departamento
+dpto.	departamento
+Dr.	doctor
+Dra.	doctora
+dto.	descuento
+Dtto.	distrito
+dupdo.	duplicado
+e.c.	era común
+E.P.D.	en paz descanse
+e.p.d.	en paz descanse
+e.p.m.	en propia mano
+e.s.m.	en sus manos
+e/	envío
+e/c	en cuenta
+Ed.	editorial
+ed.	edición / editorial / editor / editora
+Edit.	editorial
+edit.	editorial
+Edo.	estado
+edo.	estado
+EE.UU.	Estados Unidos
+ef.	efectos
+ej.	ejemplo / ejemplar / ejemplar
+Em.	eminencia
+Emmo.	Eminentísimo / eminentísimo
+entlo.	entresuelo
+etal.	y otros
+etc.	etcétera
+Exc.a	Excelencia / excelencia
+excl.	exclusive
+Excma.	Excelentísima / excelentísima
+Excmo.	Excelentísimo / excelentísimo
+F	Fahrenheit
+f.	folio
+f.a	factura
+F.C.	ferrocarril
+f.c.	ferrocarril
+f.o	folio
+fec.	hizo
+fasc.	fascículo
+fca.	fábrica
+Fdo.	firmado
+FF.AA.	Fuerzas Armadas
+FF.CC.	ferrocarriles
+FF.NN.	Fuerzas Navales
+FGD	Fondo de Garantía de Depósitos
+fig.	figurado / figura
+fol.	folio
+Fr.	fray
+fra.	factura
+FROB	Fondo de Reestructuración Ordenada Bancaria
+g.p.	giro postal
+g.v.	gran velocidad
+g/	giro
+g/p	giro postal
+gót.	gótico
+Gdor.	gobernador
+Gdor.a	gobernadora
+Gdora.	gobernadora
+geneal.	genealogía
+geogr.	geografía
+geom.	geometría
+Gob.	Gobierno / gobernador
+Gob.no	Gobierno
+Gral.	general
+gta.	glorieta
+Hna.	hermana
+Hno.	hermano
+hnos.	hermanos
+hras.	herederas
+hros.	herederos
+I.	ilustre
+i.e.	esto es
+i18n	internacionalización
+ib.	en el mismo lugar
+ibíd.	en el mismo lugar
+igl.	iglesia
+igl.a	iglesia
+Il.	ilustre
+Ilma.	Ilustrísima / ilustrísima
+Ilmo.	Ilustrísimo / ilustrísimo
+Iltre.	ilustre
+imp.	imprenta
+impr.	imprenta / impreso
+impto.	impuesto
+incl.	inclusive
+Ing.	ingeniero / ingeniera
+Inst.	instituto
+izda.	izquierda
+izdo.	izquierdo
+izq.	izquierda / izquierdo
+izqda.	izquierda
+izqdo.	izquierdo
+J.C.	Jesucristo
+Jhs.	Jesús
+JJ.OO.	Juegos Olímpicos
+K.O.	fuera de combate
+k.o.	fuera de combate
+l.c.	en el lugar citado
+L/	letra de cambio / letra
+Lcda.	licenciada
+Lcdo.	licenciado
+Lda.	licenciada
+Ldo.	licenciado
+LIC	Lugar de Importancia Comunitaria
+Lic.	licenciado / licenciada
+Llmo.	llamo
+loc.cit.	en el lugar citado
+Ltd.	limitado / limitada
+Ltda.	limitada
+Ltdo.	limitado
+M.	majestad / madre
+m.	mediodía
+M.C.	maestría de ciencias / magíster de ciencias
+M.Cs.	maestría de ciencias / magíster de ciencias
+M.e	madre
+m.n.	moneda nacional
+M.Sc.	maestría de ciencias / magíster de ciencias
+max.	máximo
+Magfca.	magnífica
+Magfco.	magnífico
+mín.	mínimo
+MC	maestría de ciencias / magíster de ciencias
+Mons.	monseñor
+mr.	mártir
+MS.	manuscrito
+ms.	manuscrito
+Mtro.	maestro
+n.	nota
+N.aS.a	Nuestra Señora
+N.B.	obsérvese / observa bien
+N.delT.	nota del traductor
+N.E.	no existe
+N.H.	no hay
+n.o	número
+N.S.	Nuestro Señor
+N.S.J.C.	Nuestro Señor Jesucristo
+N.T.	Nuevo Testamento
+Na.Sa.	Nuestra Señora
+num.	número
+NIF	número de identificación fiscal
+nro.	número
+Ntr.aSr.a	Nuestra Señora
+Ntra.Sra.	Nuestra Señora
+Ñ.	ñora
+O.F.M.	Orden de frailes menores
+O.M.	Orden Ministerial
+O.P.	Orden de predicadores
+O.S.A.	Orden de San Agustín
+o/	orden
+Ob.	obispo
+ob.cit.	obra citada
+Obpo.	obispo
+op.	obra
+op.cit.	en la obra citada
+Op.cit.	obra citada
+P.	padre / papa
+p.	página
+p.a.	por autorización / por ausencia
+P.D.	posdata
+p.d.	porte debido / portes debidos
+p.ej.	por ejemplo
+p.k.	punto kilométrico
+P.M.	policía militar
+p.m.	después del mediodía
+p.o	paseo
+P.O.	por orden
+p.o.	por orden
+p.p.	por poder / porte pagado / portes pagados
+P.S.	posdata / después de lo escrito
+p.v.	pequeña velocidad
+P.V.P.	precio de venta al público
+P.za	plaza
+p/o	por orden
+pag.	página
+pags.	páginas
+parr.	párrafo
+pag.	página
+pags.	páginas
+parr.	párrafo
+Pat.	patente
+Pbro.	presbítero
+pbro.	presbítero
+pdo.	pasado
+Pdta.	presidenta
+Pdte.	presidente
+pg.	página
+Ph.D.	doctor en Filosofía
+pl.	plaza
+plza.	plaza
+Pnt.	pontífice
+Pol.	polígono
+pp.	padres 
+ppal.	principal
+pról.	prólogo
+pral.	principal
+Presb.	presbítero
+Prof.	profesor
+Prof.a	profesora
+prov.	provincia
+pta.	peseta
+ptas.	pesetas
+pts.	pesetas
+pza.	plaza
+q.b.s.m.	que besa su mano
+q.b.s.p.	que besa sus pies
+q.d.e.p.	que descanse en paz
+Q.D.G.	que Dios guarde
+q.D.g.	que Dios guarde
+q.e.g.e.	que en gloria esté
+q.e.p.d.	que en paz descanse
+q.e.s.m.	que estrecha su mano
+q.s.g.h.	que santa gloria haya
+R.	reverendo / reverenda
+R.D.	Real Decreto / República Dominicana
+R.I.P.	descanse en paz
+r.o	recto
+R.O.	Real Orden
+r.p.m.	revoluciones por minuto
+r/min	revoluciones por minuto
+Rda.	reverenda
+Rdo.	reverendo
+reg.	registro
+rel.	relativo
+Rep.	república
+Rev.	reverendo / reverenda
+Rma.	Reverendísima
+Rmo.	Reverendísimo
+RR.HH.	recursos humanos
+RR.MM.	Reyes Magos
+Rte.	remitente
+Rvd.	reverendo / reverenda
+Rvda.	reverenda
+Rvdma.	reverendísima
+Rvdmo.	reverendísimo
+Rvdo.	reverendo
+S.	san
+s.	siglo / siguiente
+S.a	señoría / señora
+S.A.	Su Alteza / Sociedad Anónima
+s.a.	sin año
+S.A.I.	Su Alteza Imperial
+S.A.L.	Sin Ánimo de Lucro
+S.A.R.	Su Alteza Real
+S.A.S.	Su Alteza Serenísima
+s.c.	su casa
+s.d.	sin fecha
+S.D.M.	Su Divina Majestad
+S.E.	Su Excelencia
+s.e.	sin indicación de editorial
+s.e.uo.	salvo error u omisión
+s.f.	sin fecha
+S.I.	de la Compañía de Jesús
+S.J.	Compañía de Jesús / de la Compañía de Jesús
+S.L.	Sociedad Limitada
+s.l.	sin lugar de edición / sus labores / sin indicación del lugar de edición
+S.M.	Su Majestad / sacerdote marianista
+S.N.	Servicio Nacional
+s.n.	sin número
+S.P.	servicio público / servicio público
+S.R.C.	se ruega contestación
+S.R.M.	Su Real Majestad / su real majestad
+S.S.	Seguridad Social / Su Santidad / Su Señoría
+s.s.	seguro servidor
+s.s.s.	su seguro servidor
+s.v.	bajo la palabra
+s/a	sin año
+s/c	su casa / su cuenta
+s/e	sin indicación de editorial
+s/f	sin fecha
+s/l	sin indicación del lugar de edición
+s/n	sin número
+s/o	su orden
+s/v	bajo la palabra
+Sa.	señoría / señora
+Sdad.	sociedad
+sdad.	sociedad
+Sdad.Ltda.	Sociedad Limitada
+secret.a	secretaria
+Ser.	serenísimo / serenísima
+Serma.	Serenísima
+Sermo.	Serenísimo
+Sgto.	sargento
+sig.	siguiente
+SIP	Sistemas Institucionales de Protección
+Soc.	sociedad
+Sr.	señor / señor
+Sr.a	señora
+Sra.	señora
+Sres.	señores
+Srs.	señores
+Srta.	señorita
+ss.	siguientes
+SS.AA.	Sus Altezas
+SS.MM.	Sus Majestades
+Sta.	santa
+Sto.	santo
+t.	tomo
+tit.	título
+tel.	teléfono
+telef.	teléfono
+test.	testigo
+tfno.	teléfono
+Tm	terametro
+tpo.	tiempo
+trad.	traducción / traductor / traductora
+Tte.	teniente
+U.	usted
+Ud.	usted
+Uds.	ustedes
+Univ.	universidad
+V.	usted / véase / venerable
+v.	véase / verso
+V.A.	Vuestra Alteza
+V.A.R.	Vuestra Alteza Real
+V.oB.o	visto bueno
+V.B.	Vuestra Beatitud
+V.E.	Vuestra Excelencia
+v.g.	verbigracia / por ejemplo
+v.gr.	verbigracia / por ejemplo
+V.I.	Vuestra Señoría Ilustrísima
+V.M.	Vuestra Majestad
+v.o	vuelto
+V.O.	versión original
+V.O.S.	versión original subtitulada
+V.P.	vuestra paternidad
+V.S.	Vuestra Señoría
+V.S.I.	vuestra señoría ilustrísima
+v/	visto
+Valmte.	vicealmirante
+Vd.	usted
+Vda.	viuda
+Vdo.	viudo
+Vds.	ustedes
+vid.	véase / mira
+vo.	vuelto
+vol.	volumen
+vs.	contra
+vta.	vuelta
+vto.	vuelto
+VV.AA.	varios autores
+vv.aa.	varios autores
+W.C.	servicio / retrete
+Xto.	Jesucristo / Cristo
+Y.	Yoga
+Yan.	yanqui
+Yeg.	Yegua
+Yq.	yunque
+Yuc.	Yuca
